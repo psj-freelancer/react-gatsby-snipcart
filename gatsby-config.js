@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'React & Gatsby shop powered by Snipcart',
-    author: "Snipcart's geeks",
-    description: "A snipcart's demo using React and Gatsby.",
-    siteUrl: 'https://snipcart-react-gatsby.netlify.com/',
+    title: 'Starzon',
+    author: "Srivarshini",
+    description: "React graphql",
+    siteUrl: 'https://starzonbeta.netlify.com/',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
